@@ -28,7 +28,7 @@ My engineering philosophy focuses on **performance under pressure**, **clean sys
 
 ---
 
-## 🏴 Hacker Mindset
+## 🏴 Testing Mindset
 
 - Reverse engineering & binary inspection
 - **Mobile application testing using Frida**
