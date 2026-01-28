@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=⚔️+Vexssy+⚔️;System+Architect;Full-Stack+Engineer" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=⚔️+Vexssy+⚔️;System+Architect;Full-Stack+Engineer" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/-System%20Architect-0A0A0A?style=for-the-badge&logo=archlinux&logoColor=white" alt="System Architect" />
