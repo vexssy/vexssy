@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFA3&height=240&section=header&text=SYSTEM%20ARCHITECT&fontSize=56&fontColor=00FFA3&animation=fadeIn&fontAlignY=38&desc=High-Load%20•%20Security%20•%20Full-Stack%20•%20Hacker&descSize=18&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFA3&height=240&section=header&text=SYSTEM%20ARCHITECT&fontSize=56&fontColor=00FFA3&animation=fadeIn&fontAlignY=38&desc=High-Load%20•%20Security%20•%20Full-Stack%20•%20&descSize=18&descAlignY=60" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=400&color=00FFA3&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Systems;Breaking+Software+Limits;Security+Driven+Architecture;Full-Stack+%2B+Web3+%2B+DevOps;Reverse+Engineering+%26+Runtime+Analysis" />
