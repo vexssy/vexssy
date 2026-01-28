@@ -81,7 +81,18 @@ My engineering philosophy focuses on **performance under pressure**, **clean sys
 
 ### Telegram Ecosystem
 <p>
-<img src="https://skillicons.dev/icons?i=telegram" />
+  <a href="https://core.telegram.org/bots">
+    <img height="40" src="https://cdn.simpleicons.org/telegram/26A5E4" />
+  </a>
+  <a href="https://docs.aiogram.dev/">
+    <img height="40" src="https://img.shields.io/badge/aiogram-Docs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://core.telegram.org/bots/webapps">
+    <img height="40" src="https://img.shields.io/badge/Telegram_Mini_Apps-Docs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://docs.aiohttp.org/">
+    <img height="40" src="https://img.shields.io/badge/aiohttp-Docs-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 
 ---
