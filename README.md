@@ -59,7 +59,7 @@ I architect digital ecosystems where frontend, backend, and infrastructure conve
 
 ### **🤖 Telegram Ecosystem**
 <p>
-  <img src="https://img.shields.io/badge/aiogram-3.0-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="aiogram" />
+  <img src="https://img.shields.io/badge/aiogram-3.24.0-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="aiogram" />
   <img src="https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Mini Apps" />
   <img src="https://img.shields.io/badge/aiohttp-2C3E50?style=flat-square&logo=aiohttp&logoColor=white" alt="aiohttp" />
 </p>
